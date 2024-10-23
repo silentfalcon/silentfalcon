@@ -1,7 +1,7 @@
 
 Hi there, I'm Vyankatesh Shinde 👋
 
-👀 Aspiring Ethical Hacker and Penetration Tester based in Nepal, committed to mastering cybersecurity.
+👀 Aspiring Ethical Hacker and Penetration Tester & committed to mastering cybersecurity.
 
 🌱 Currently pursuing a Bachelor's Of Technology in Artificial Intellegince & Data Science Engineering to deepen technical expertise.
 
