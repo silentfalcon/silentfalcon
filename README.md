@@ -1,12 +1,12 @@
 
 Hi there, I'm Vyankatesh Shinde 👋
 
-👀 Aspiring Ethical Hacker and Penetration Tester & committed to mastering cybersecurity.
+👀 Aspiring Ethical Hacker And Penetration Tester & Committed To Mastering CyberSecurity.
 
-🌱 Currently pursuing a Bachelor's Of Technology in Artificial Intellegince & Data Science Engineering to deepen technical expertise.
+🌱 Currently Pursuing a Bachelor's Of Technology in Artificial Intellegince & Data Science Engineering To Deepen Technical Expertise.
 
-💼 Seeking collaboration on challenging projects that advance cybersecurity practices.
+💼 Seeking Collaboration On Challenging Projects That Advance CyberSecurity Practices.
 
-📫 Let's connect on LinkedIn: https://www.linkedin.com/in/vyankatesh-shinde-2bb222219/
+📫 Let's Connect On LinkedIn: https://www.linkedin.com/in/vyankatesh-shinde-2bb222219/
 
-Thank you for visiting!
+Thank You For Visiting!
