@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/137585551?v=4" alt="Logo" width="200" height="200">
   <h1>Welcome to My GitHub 🚀</h1>
-  <p>Your tagline or mission statement goes here.</p>
+  <p>I'm A Pentesting/Ethical Hacking Learner, Currently Studying Bachelor's Technology In Artificial Intelligence & Data Science.</p>
   <a href="https://github.com/silentfalcon/">
     <img src="https://img.shields.io/github/followers/silentfalcon?style=social" alt="GitHub Followers">
   </a>
