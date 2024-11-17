@@ -1,3 +1,6 @@
+<p align="center">
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkalmux1"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkalmux1&label=VISITORS&labelColor=%23697689&countColor=%2337d67a&style=flat&labelStyle=upper" /></a>
+</p>
 <p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 <div align="center">
   <h1>Welcome to My GitHub 🚀</h1>
@@ -53,9 +56,10 @@ Hi there, I'm Vyankatesh Shinde 👋
 
 <!-- Stats Section -->
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silentfalcon&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silentfalcon&theme=radical" alt="GitHub Streak">
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=silentfalcon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=chartreuse-dark&hide_border=false&order=2&disable_animations=false" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=silentfalcon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph" /> 
+  <img src="https://streak-stats.demolab.com?user=silentfalcon&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3&disable_animations=false" height="160" alt="streak graph" />
 </div>
 
 ---
