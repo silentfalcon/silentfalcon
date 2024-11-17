@@ -67,7 +67,7 @@ Hi there, I'm Vyankatesh Shinde 👋
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/Vickyshinde5050">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/X-Connect-blue?logo=X&logoColor=white" alt="Twitter">
   </a>
   <a href="https://www.instagram.com/cyberforgeofficial/">
     <img src="https://img.shields.io/badge/Instagram-Connect-Red?logo=instagram&logoColor=white" alt="Instagram">
