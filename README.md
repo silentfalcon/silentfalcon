@@ -14,8 +14,6 @@
     <img src="https://img.shields.io/badge/Email-Contact-blue" alt="Contact Me">
   </a>
     <br>
-    <br>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/C0d3Blazer.png" alt="Your Image Badge" width="40%" height="auto" />
 </div>
 
 ---
