@@ -28,7 +28,7 @@ Hi there, I'm Vyankatesh Shinde 👋
 
 💼 Seeking Collaboration On Challenging Projects That Advance CyberSecurity Practices.
 
-📫 Let's Connect On LinkedIn: https://www.linkedin.com/in/vyankatesh-shinde-2bb222219/
+📫 Let's Connect On LinkedIn: https://www.linkedin.com/in/vyankatesh-shinde-%F0%9F%87%AE%F0%9F%87%B3-2bb222219/
 
 <!-- Skills Section -->
 ---
@@ -67,7 +67,7 @@ Hi there, I'm Vyankatesh Shinde 👋
 <!-- Contact Section -->
 ## 📫 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/vyankatesh-shinde-2bb222219/">
+  <a href="https://www.linkedin.com/in/vyankatesh-shinde-%F0%9F%87%AE%F0%9F%87%B3-2bb222219/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/Vickyshinde5050">
