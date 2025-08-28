@@ -70,13 +70,13 @@ Hi there, I'm Vyankatesh Shinde 👋
   <a href="https://www.linkedin.com/in/vyankatesh-shinde-%F0%9F%87%AE%F0%9F%87%B3-2bb222219/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/Vickyshinde5050">
+  <a href="https://x.com/rootxploit_0x">
     <img src="https://img.shields.io/badge/X-Connect-blue?logo=X&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://www.instagram.com/cyberforgeofficial/">
+  <a href="https://www.instagram.com/rootxploit.0x/">
     <img src="https://img.shields.io/badge/Instagram-Connect-Red?logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://tryhackme.com/r/p/C0d3Blazer">
+  <a href="https://tryhackme.com/r/p/rootxploit.0x">
     <img src="https://img.shields.io/badge/TryHackMe-Connect-Red?logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
 </div>
