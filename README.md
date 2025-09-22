@@ -11,7 +11,7 @@
   </a></br>
 <div align="center">
     <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300" alt="Cybersecurity Animation">
-</div>
+</div></br>
   <a href="https://github.com/silentfalcon/">
     <img src="https://img.shields.io/github/followers/silentfalcon?style=social" alt="GitHub Followers">
   </a>
