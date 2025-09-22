@@ -9,6 +9,9 @@
  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+Journey+To+Become+A+Great+Hacker" alt="Typing SVG" />
   </a></br>
+<div align="center">
+    <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300" alt="Cybersecurity Animation">
+</div>
   <a href="https://github.com/silentfalcon/">
     <img src="https://img.shields.io/github/followers/silentfalcon?style=social" alt="GitHub Followers">
   </a>
